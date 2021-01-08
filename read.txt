@@ -1,0 +1,9 @@
+amplify add auth
+---
+yarn add clsx date-fns react-image-crop react-router-dom react-window uuid
+yarn add eslint  eslint-plugin-react husky lint-staged prettier --dev 
+yarn add  babel-eslint eslint-plugin-react eslint-plugin-react-hooks
+
+---
+User name,Password,Access key ID,Secret access key,Console login link
+td-lead2,,AKIA2ZJ3T4NIUEXVFFV7,Ua/Cnu0MZdhMV2McMBwh0zyca1z4xNZeLh0cvvmN,https://741543764817.signin.aws.amazon.com/console
